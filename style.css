@@ -4,10 +4,17 @@
     box-sizing: border-box;
 }
 
+a{
+    text-decoration: none;
+    font-weight: 500;
+    color: brown;
+}
+
 .container{
     margin: 5%;
     background-color: #eeeeee;
     border-radius: 5px;
+    margin-bottom: 0;
 }
 
 .content-box{
@@ -57,4 +64,18 @@ h2{
     margin-top: 10px;
 }
 
+li{
+    margin-left: 40px;
+    list-style-type: circle;
+    padding-top: 10px;
+    word-spacing: 2px;
+}
 
+.cite{
+    margin-top: 2%;
+}
+
+footer{
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
