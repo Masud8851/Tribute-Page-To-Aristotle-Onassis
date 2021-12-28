@@ -35,6 +35,12 @@ h2{
     margin-bottom: 15px;
 }
 
+.thumbnail{
+    border: 1px solid #dddddd;
+    padding: 5px;
+    margin-bottom: 30px;
+}
+
 /* img center & making circle */
 .img-circle{
     border-radius: 50%;
@@ -46,5 +52,9 @@ h2{
 }
 
 .caption{
-
+    background-color: #dddddd;
+    padding: 1%;
+    margin-top: 10px;
 }
+
+
